@@ -27,4 +27,4 @@ Verification: All usability testing, data collection from 5 participants, and pr
 6. Repository Structure
 - README.md: Project overview and mandatory disclosures.
 - Source_Code/: Contains all HTML/CSS/JS or project files exported from VO Dev.
-- Testing_Evidence/: Links to audio/video/photo proof of the 5 usability test sessions.
+- APK File of Fully Functioning App
