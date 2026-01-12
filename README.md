@@ -54,5 +54,10 @@ All usability testing, data collection from **5 participants**, and primary desi
 - `README.md` – Project overview and mandatory AI tool disclosures  
 - `Source_Code/` – Contains all application source files (HTML/CSS/JavaScript or related project files)  
 - `APK/` – Fully functioning Android application package
+  
+## 📥 Download App
+You can download the latest APK for testing here:
+[**Download v1.0.0 APK**](https://github.com/sajne511003-rgb/SUPERCOOK-HCI-PROJECT/releases/tag/v1.0.0)
+
 
 
